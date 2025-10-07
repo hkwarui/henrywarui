@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/henrywarui/henrywarui/main/assets/header.png" alt="Henry Warui — Senior Software Engineer & Tech Leader" width="100%">
+  <img src="https://raw.githubusercontent.com/hkwarui/henrywarui/main/assets/header.png" alt="Henry Warui — Senior Software Engineer & Tech Leader" width="100%">
 </p>
 
 <h1 align="center">👋 Hi, I’m Henry Warui</h1>
