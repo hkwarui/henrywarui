@@ -1,7 +1,7 @@
 <!-- Banner -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/hkwarui/henrywarui/main/assets/header.png" alt="Henry Warui — Senior Software Engineer & Tech Leader" width="100%">
-</p>
+</p> -->
 
 <h1 align="center">👋 Hi, I’m Henry Warui</h1>
 <h3 align="center">Senior Software Engineer & Tech Leader</h3>
@@ -42,12 +42,12 @@ Driven by curiosity, I explore where **technology**, **clarity**, and **purpose*
 
 ### 📊 GitHub Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=henrywarui&show_icons=true&theme=transparent" height="160px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=henrywarui&theme=transparent" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hkwarui&show_icons=true&theme=transparent" height="160px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hkwarui&theme=transparent" height="160px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrywarui&layout=compact&theme=transparent" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkwwarui&layout=compact&theme=transparent" height="160px" />
 </p>
 
 ---
@@ -62,12 +62,6 @@ Driven by curiosity, I explore where **technology**, **clarity**, and **purpose*
 <p align="center">
   <a href="https://www.linkedin.com/in/henrywarui" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Henry%20Warui-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="mailto:henry@hey.com">
-    <img src="https://img.shields.io/badge/Email-henry@hey.com-orange?style=for-the-badge&logo=gmail">
-  </a>
-  <a href="https://henrywarui.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-henrywarui.com-darkgreen?style=for-the-badge&logo=google-earth">
   </a>
 </p>
 
