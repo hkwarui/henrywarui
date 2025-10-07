@@ -47,7 +47,7 @@ Driven by curiosity, I explore where **technology**, **clarity**, and **purpose*
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkwwarui&layout=compact&theme=transparent" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkwarui&layout=compact&theme=transparent" height="160px" />
 </p>
 
 ---
