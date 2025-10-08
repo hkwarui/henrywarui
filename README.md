@@ -45,7 +45,7 @@ Driven by curiosity, I explore where **technology**, **clarity**, and **purpose*
 <p align="center">
   <!-- General Stats -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=hkwarui&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&hide_border=true" 
+    src="https://hkwarui.vercel.app/api?username=hkwarui&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&hide_border=true" 
     alt="Henry's GitHub stats" 
     height="170px"
   />
