@@ -40,16 +40,34 @@ Driven by curiosity, I explore where **technology**, **clarity**, and **purpose*
 
 ---
 
-### 📊 GitHub Insights
+### 📊 GitHub Stats
+
 <p align="center">
-  ![Henry's GitHub stats](https://github-readme-stats.vercel.app/api?username=henrywarui&show_icons=true&count_private=true&theme=transparent&include_all_commits=true)
-  <img src="https://github-readme-stats.vercel.app/api?username=hkwarui&show_icons=true&count_private=true&theme=transparent&include_all_commits=true" height="160px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hkwarui&theme=transparent" height="160px" />
+  <!-- General Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=hkwarui&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&hide_border=true" 
+    alt="Henry's GitHub stats" 
+    height="170px"
+  />
+
+  <!-- Streak Stats -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=hkwarui&theme=transparent&hide_border=true" 
+    alt="GitHub Streak"
+    height="170px"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkwarui&layout=compact&theme=transparent" height="160px" />
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkwarui&layout=compact&theme=transparent&hide_border=true" 
+    alt="Top Languages" 
+    height="160px"
+  />
 </p>
+
+
 
 ---
 
