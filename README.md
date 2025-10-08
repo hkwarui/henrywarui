@@ -40,20 +40,6 @@ Driven by curiosity, I explore where **technology**, **clarity**, and **purpose*
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats-delta-eosin-91.vercel.app/api?username=hkwarui&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&hide_border=true&cache_seconds=1800&v=2" 
-    alt="Henry's GitHub stats" 
-    height="170px"
-  />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=hkwarui&theme=transparent&hide_border=true" 
-    alt="GitHub Streak"
-    height="170px"
-  />
-</p>
-
 <p align="center">
   <img 
     src="https://github-readme-stats-delta-eosin-91.vercel.app/api/top-langs/?username=hkwarui&layout=compact&theme=transparent&hide_border=true" 
