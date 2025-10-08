@@ -1,8 +1,4 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hkwarui/hkwarui/main/assets/header.png" alt="Henry Warui — Senior Software Engineer & Tech Leader" width="100%">
-</p>
-
 <h1 align="center">👋 Hi, I’m Henry Warui</h1>
 <h3 align="center">Senior Software Engineer & Tech Leader</h3>
 
