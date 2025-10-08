@@ -56,7 +56,7 @@ Driven by curiosity, I explore where **technology**, **clarity**, and **purpose*
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkwarui&layout=compact&theme=transparent&hide_border=true" 
+    src="https://github-readme-stats-delta-eosin-91.vercel.app/api/top-langs/?username=hkwarui&layout=compact&theme=transparent&hide_border=true" 
     alt="Top Languages" 
     height="160px"
   />
